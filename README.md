@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gedekoding
 - 👀 I’m interested in full stack developer
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me wigrahaananda98@gmail.com
 
 <!---
